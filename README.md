@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kushagra Singh</h1>
-<h3 align="center">A passionate frontend developer and designer from India!</h3>
+<h1 align="center">Hi 👋, I'm Kushagra Singh!</h1>
+<h3 align="center">A passionate frontend developer and designer from India.</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning React<br><br>👨‍💻 All of my projects are available at https://github.com/kushagrasinghx?tab=repositories<br><br>💬 Ask me about Frontend Development<br><br>📫 How to reach me kushagrasinghx@gmail.com
